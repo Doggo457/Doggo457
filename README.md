@@ -87,9 +87,10 @@ fn main() {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23B91C1C.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/Doggo457)
-[![Website](https://img.shields.io/badge/Website-%23B91C1C.svg?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d0d)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-%23B91C1C.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:you@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23B91C1C.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/callum-challinor-92b51030b/)
+[![Website](https://img.shields.io/badge/Website-%23B91C1C.svg?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d0d)](https://callumchallinor.tiiny.site/)
+[![Email](https://img.shields.io/badge/Email-%23B91C1C.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:callumchallinor456@gmail.com
+)
 
 </div>
 
